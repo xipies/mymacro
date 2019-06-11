@@ -1,0 +1,10 @@
+[ {
+  "cmd": "/echo foo",
+  "cycle": 0
+}, {
+  "cmd": "/echo bar",
+  "cycle": 2.5
+}, {
+  "cmd": "/echo baz",
+  "cycle": 1.5
+} ]
